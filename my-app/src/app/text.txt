@@ -1,0 +1,311 @@
+[
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0031"
+    },
+    "name": "Sepatu 1",
+    "slug": "sepatu-1",
+    "description": "ini adalah sepatu yang keren",
+    "excerpt": "sepatu lari sepeda",
+    "price": 29.99,
+    "tags": ["lari", "sepeda"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/HKE1123194BD-2.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/HKE1123194BD-1.jpg", "https://www.ncrsport.com/img/storage/large/HKE1123194BD-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0032"
+    },
+    "name": "Sepatu 2",
+    "slug": "sepatu-2",
+    "description": "ini adalah sepatu yang keren",
+    "excerpt": "sepatu lari sepeda",
+    "price": 29.99,
+    "tags": ["lari", "sepeda"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/HKE1123194OM-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/HKE1123194OM-1.jpg", "https://www.ncrsport.com/img/storage/large/HKE1123194OM-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0033"
+    },
+    "name": "Kaos Kaki 1",
+    "slug": "kaos-kaki-1",
+    "description": "ini adalah kaos kaki yang keren",
+    "excerpt": "kaos kaki lari sepeda",
+    "price": 29.99,
+    "tags": ["lari", "sepeda"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/CX-R270105-001-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/CX-R270105-001-1.jpg", "https://www.ncrsport.com/img/storage/large/CX-R270105-001-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0034"
+    },
+    "name": "Kaos Kaki 2",
+    "slug": "kaos-kaki-2",
+    "description": "ini adalah kaos kaki yang keren",
+    "excerpt": "kaos kaki lari sepeda",
+    "price": 29.99,
+    "tags": ["lari", "sepeda"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/CX-R270105-841-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/CX-R270105-841-1.jpg", "https://www.ncrsport.com/img/storage/large/CX-R270105-841-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0035"
+    },
+    "name": "Sepatu 3",
+    "slug": "sepatu-3",
+    "description": "ini adalah sepatu yang keren",
+    "excerpt": "Sepatu trail",
+    "price": 49.99,
+    "tags": ["trail"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/L47205500-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/L47205500-3.jpg", "https://www.ncrsport.com/img/storage/large/L47205500-1.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0036"
+    },
+    "name": "Baju 1",
+    "slug": "baju-1",
+    "description": "ini adalah baju yang keren",
+    "excerpt": "baju bola futsal",
+    "price": 49.99,
+    "tags": ["bola", "futsal"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/919009-496-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/919009-496-1.jpg", "https://www.ncrsport.com/img/storage/large/919009-496-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0037"
+    },
+    "name": "Baju 2",
+    "slug": "baju-2",
+    "description": "ini adalah baju yang keren",
+    "excerpt": "baju bola futsal",
+    "price": 49.99,
+    "tags": ["bola", "futsal"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/CD0703-336-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/CD0703-336-1.jpg", "https://www.ncrsport.com/img/storage/large/CD0703-336-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0038"
+    },
+    "name": "Celana 1",
+    "slug": "celana-1",
+    "description": "ini adalah Celana yang keren",
+    "excerpt": "Celana lari futsal",
+    "price": 49.99,
+    "tags": ["lari", "futsal"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/DZ9600-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/DZ9600-1.jpg", "https://www.ncrsport.com/img/storage/large/DZ9600-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0039"
+    },
+    "name": "Sepatu 4",
+    "slug": "Sepatu-4",
+    "description": "ini adalah Sepatu yang keren",
+    "excerpt": "Sepatu sneaker",
+    "price": 49.99,
+    "tags": ["sneaker"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/37491501-3.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/37491501-3.jpg", "https://www.ncrsport.com/img/storage/large/37491501-4.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0040"
+    },
+    "name": "Sepatu 5",
+    "slug": "Sepatu-5",
+    "description": "ini adalah Sepatu yang keren",
+    "excerpt": "Sepatu sneaker",
+    "price": 49.99,
+    "tags": ["sneaker"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/554724-136-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/554724-136-1.jpg", "https://www.ncrsport.com/img/storage/large/554724-136-3.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0041"
+    },
+    "name": "Kaos 1",
+    "slug": "kaos-1",
+    "description": "Ini adalah kaos yang keren",
+    "excerpt": "Kaos casual",
+    "price": 39.99,
+    "tags": ["casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/AHSQ155-4-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/AHSQ155-4-1.jpg", "https://www.ncrsport.com/img/storage/large/AHSQ155-4-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0042"
+    },
+    "name": "Kaos 2",
+    "slug": "kaos-2",
+    "description": "Ini adalah kaos yang keren",
+    "excerpt": "Kaos casual",
+    "price": 39.99,
+    "tags": ["casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/AHSQ155-1-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/AHSQ155-1-1.jpg", "https://www.ncrsport.com/img/storage/large/AHSQ155-1-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0043"
+    },
+    "name": "Topi 1",
+    "slug": "topi-1",
+    "description": "Ini adalah topi yang keren",
+    "excerpt": "Topi casual",
+    "price": 19.99,
+    "tags": ["casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/NRA1377390512-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/NRA1377390512-1.jpg", "https://www.ncrsport.com/img/storage/large/NRA1377390512-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0044"
+    },
+    "name": "Topi 2",
+    "slug": "topi-2",
+    "description": "Ini adalah topi yang keren",
+    "excerpt": "Topi casual",
+    "price": 19.99,
+    "tags": ["baseball", "casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/NRA11725436-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/NRA11725436-1.jpg", "https://www.ncrsport.com/img/storage/large/NRA11725436-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0045"
+    },
+    "name": "Sepatu 6",
+    "slug": "sepatu-6",
+    "description": "Ini adalah sepatu yang keren",
+    "excerpt": "Sepatu casual",
+    "price": 59.99,
+    "tags": ["sneaker", "casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/DH3161-001-3.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/DH3161-001-3.jpg", "https://www.ncrsport.com/img/storage/large/DH3161-001-4.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0046"
+    },
+    "name": "Topi 3",
+    "slug": "topi-3",
+    "description": "Ini adalah topi yang keren",
+    "excerpt": "Topi baseball",
+    "price": 19.99,
+    "tags": ["baseball", "casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/02367402-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/02367402-1.jpg", "https://www.ncrsport.com/img/storage/large/02367402-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0047"
+    },
+    "name": "Kaos 3",
+    "slug": "kaos-3",
+    "description": "Ini adalah kaos yang keren",
+    "excerpt": "Kaos casual",
+    "price": 39.99,
+    "tags": ["casual"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/J2SAA8B709-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/J2SAA8B709-1.jpg", "https://www.ncrsport.com/img/storage/large/J2SAA8B709-3.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0048"
+    },
+    "name": "Baju 3",
+    "slug": "baju-3",
+    "description": "Ini adalah baju yang keren",
+    "excerpt": "Baju futsal",
+    "price": 49.99,
+    "tags": ["futsal"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/J2SAA8B662-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/J2SAA8B662-1.jpg", "https://www.ncrsport.com/img/storage/large/J2SAA8B662-3.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0049"
+    },
+    "name": "Baju 4",
+    "slug": "baju-4",
+    "description": "Ini adalah baju yang keren",
+    "excerpt": "Baju lari",
+    "price": 49.99,
+    "tags": ["lari"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/DO9597-101-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/DO9597-101-1.jpg", "https://www.ncrsport.com/img/storage/large/DO9597-101-2.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  },
+  {
+    "_id": {
+      "$oid": "659eabb58e934ab0d2bb0050"
+    },
+    "name": "Sepatu 7",
+    "slug": "sepatu-7",
+    "description": "Ini adalah sepatu yang keren",
+    "excerpt": "Sepatu trail",
+    "price": 59.99,
+    "tags": ["trail"],
+    "thumbnail": "https://www.ncrsport.com/img/storage/large/DH0623-200-1.jpg",
+    "image": ["https://www.ncrsport.com/img/storage/large/DH0623-200-2.jpg", "https://www.ncrsport.com/img/storage/large/DH0623-200-1.jpg"],
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "updatedAt": "2024-01-10T08:00:00.000Z"
+  }
+]
+
+
+baseball
+casual
+sneaker
+lari
+futsal
+bola 
+trail
